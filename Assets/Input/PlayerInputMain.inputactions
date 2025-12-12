@@ -175,6 +175,17 @@
                     "isPartOfComposite": true
                 },
                 {
+                    "name": "",
+                    "id": "29bbb274-c33a-4673-a0d0-e43f1e5cc2b1",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
                     "name": "One Modifier",
                     "id": "7ee1a2d2-3755-41f9-87f5-d199e0b2aae0",
                     "path": "OneModifier",
